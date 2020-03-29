@@ -81,9 +81,7 @@
         </a>
       </li>
       <li> :iphone:
-        <a href="https://github.com/Pufcorina/MobileProgramming">
           Mobile Application Programming
-        </a>
       </li>
       <li> :black_joker:
         <a href="https://github.com/AlexCernov/PPD">
