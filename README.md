@@ -97,17 +97,13 @@
           Android Things
         </a>
       </li>
-      <li> :sos:
+      <li> :mortar_board:
         <a href="https://github.com/AlexCernov/NicheResearchTool">
           Preparation of Bachelor Thesis
         </a>
       </li>
       <li> :scroll:
           History of Mathematics
-        </a>
-      </li>
-      <li> :mortar_board:
-          Preparation of Bachelor Thesis
         </a>
       </li>
       <li> :shipit:
